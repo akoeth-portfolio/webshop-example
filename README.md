@@ -1,7 +1,20 @@
-# webshop
+Webshop example application
 
-eCommerce Web-Application
-This application is created by me during my CareerFoundry course. This is a simple webshop using ordinary features which can be found in most webshop applications.
+This example app features some of the most common functionalities that can be found in almost every modern webshop application.
+
+These are:
+CRUD (create / read / update / delete) on products
+Creating / deleting comments on product page
+Real-time updates with ActionCable when a user posts a new comment
+Creating orders and payments with Stripe
+Pagination on comments listing
+Searching for products
+Authentication with Devise and authorization (users, admins)
+Creating user account
+Update user profile and changing password
+Sending E-mails
+Application ready for production
+The Website can be reached with the following link: https://duke-wellington-example-app.herokuapp.com/
 
 Technologies
 Ruby 2.5.1
@@ -11,17 +24,3 @@ Redux - A state container for our components.
 GraphQL - An implementation of GraphQL using the graphql gem.
 Graphiql - Graphiql is an in-browser IDE for exploring GraphQL.
 SQLite3 for development and PostgreSQL for production.
-
-Features
-CRUD (create / read / update / delete) on products
-Creating / deleting comments on product page
-Real-time updates with ActionCable when a user posts a new comment
-Creating orders with and payments with Stripe
-Pagination on comments listing
-Searching on products
-Authentication with Devise and authorizations (users, admins)
-Creating user account
-Update user profile (incl. avatar image saved on Amazon S3) and changing password
-Sending E-mails
-Application ready for production
-The Website can be reached with the following link: https://ecommercehornortest.herokuapp.com/
