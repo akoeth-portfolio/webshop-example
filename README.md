@@ -27,13 +27,20 @@ Application ready for production
 
 The Website can be reached with the following link: https://duke-wellington-example-app.herokuapp.com/
 
-Technologies
+
+Technologies used:
 Ruby 2.5.1
+
 Rails 5.2.1
-React-rails - The App is using React components for the shopping cart.
-Redux - A state container for our components.
-GraphQL - An implementation of GraphQL using the graphql gem.
-Graphiql - Graphiql is an in-browser IDE for exploring GraphQL.
-SQLite3 for development and PostgreSQL for production.
+
+React-rails - The App is using React components for the shopping cart
+
+Redux - A state container for our components
+
+GraphQL - An implementation of GraphQL using the graphql gem
+
+Graphiql - Graphiql is an in-browser IDE for exploring GraphQL
+
+SQLite3 for development and PostgreSQL for production
 
 
