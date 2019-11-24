@@ -25,4 +25,4 @@ GraphQL - An implementation of GraphQL using the graphql gem.
 Graphiql - Graphiql is an in-browser IDE for exploring GraphQL.
 SQLite3 for development and PostgreSQL for production.
 
-test
+
