@@ -33,6 +33,7 @@ Application ready for production
 *****************************************************************
 
 some of the technologies used:
+
 Ruby 2.6.3
 
 Rails 5.2.2
