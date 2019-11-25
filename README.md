@@ -2,7 +2,7 @@ Webshop example application
 
 
 
-see the app: https://duke-wellington-example-app.herokuapp.com/
+see the app: https://akoeth-example-webshop.herokuapp.com/
 
 ***************************************************************
 This example app features some of the most common functionalities that can be found in almost every modern webshop application, including:
