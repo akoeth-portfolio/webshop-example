@@ -5,7 +5,7 @@ Webshop example application
 see the app: https://duke-wellington-example-app.herokuapp.com/
 
 ***************************************************************
-This example app features some of the most common functionalities that can be found in almost every modern webshop application including:
+This example app features some of the most common functionalities that can be found in almost every modern webshop application, including:
 
 CRUD (create / read / update / delete) on products
 
