@@ -4,7 +4,7 @@ Webshop example application
 
 see the app: https://duke-wellington-example-app.herokuapp.com/
 
-
+***************************************************************
 This example app features some of the most common functionalities that can be found in almost every modern webshop application.Here is an (imcomplete) list:
 
 CRUD (create / read / update / delete) on products
@@ -30,9 +30,7 @@ Update user profile and changing password
 Sending E-mails
 
 Application ready for production
-
-
-
+*****************************************************************
 
 some of the technologies used:
 Ruby 2.6.3
