@@ -6,8 +6,7 @@ see the app: https://duke-wellington-example-app.herokuapp.com/
 
 
 This example app features some of the most common functionalities that can be found in almost every modern webshop application.
-
-here is an (imcomplete) lis:
+here is an (imcomplete) list:
 CRUD (create / read / update / delete) on products
 
 Authentication with Devise and authorization (users, admins)
@@ -33,7 +32,7 @@ Sending E-mails
 Application ready for production
 
 
-Technologies used:
+some of the technologies used:
 Ruby 2.6.3
 
 Rails 5.2.2
