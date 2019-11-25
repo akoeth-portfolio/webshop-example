@@ -27,7 +27,7 @@ Creating user account
 
 Update user profile and changing password
 
-Sending E-mails
+Email form
 
 Application ready for production
 *****************************************************************
